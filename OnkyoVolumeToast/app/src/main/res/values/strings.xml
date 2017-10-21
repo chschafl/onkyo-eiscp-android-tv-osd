@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Onkyo ICSP Volume Toast Service</string>
+    <!--<string name="toast_format">Volume: %1</string>-->
+    <string name="info_text">Please set up the IP address of your ICSP capable Onkyo AV receiver to receive volume changes as toast notifications.</string>
+    <string name="label_ip_address">IP address of AV receiver</string>
+    <string name="label_port">Port of AV receiver</string>
+    <string name="label_save">Save</string>
+    <string name="label_service_off">Service Off</string>
+    <string name="label_service_on">Service On</string>
+</resources>
